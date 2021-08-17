@@ -152,6 +152,10 @@ A ton of lighting effects, including some really cool ones like being able to ri
 
 ### [Torchlight](https://foundryvtt.com/packages/torchlight)
 A cool way to use torches and light sources.
+
+### [Custom Nameplates](https://www.foundryvtt-hub.com/package/custom-nameplates/)
+Lets you add and edit custom nameplates to NPC tokens, as well as editing font, size, etc.
+
 <br>
 
 ## SOUND MODULES
