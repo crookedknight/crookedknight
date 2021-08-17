@@ -1,6 +1,12 @@
-# List of Foundry VTT Modules
+# LIST OF FOUNDRY VTT MODULES
 
+## COMBAT MODULES
 
+### Combat Numbers
+
+Showcases bouncing numbers indicating damage or healing, akin to an MMO or JRPG.
+
+![Combat Numbers](https://raw.githubusercontent.com/1000nettles/combat-numbers/main/img/preview2.gif)
 
 ### Markdown
 
