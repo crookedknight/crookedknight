@@ -99,8 +99,7 @@ Super useful for setting custom triggers for events.
 Useful if you're utilizing any kind of downtime in your game. 
 
 ### [Monk's TokenBar](https://foundryvtt.com/packages/monks-tokenbar)
-A whole bunch of ltitle things to make your life easier! He has some other good ones too, like the Little Details and 
-
+A whole bunch of ltitle things to make your life easier! 
 <br>
 
 ## SHOPKEEPING MODULES
@@ -125,7 +124,7 @@ Helps you organize your compendiums.
 ### [GM Screen](https://foundryvtt.com/packages/gm-screen)
 Lets you create custom tables with information for yourself or your players.
 
-## [DnD Beyond Sheet](https://foundryvtt.com/packages/mybeyond-theme)
+### [DnD Beyond Sheet](https://foundryvtt.com/packages/mybeyond-theme)
 Just a sheet rigged to look a little more like the Beyond character sheet, I think it looks nicer.
 
 <br>
